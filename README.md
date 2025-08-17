@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Proveably Random Raffle Contracts
 ​
@@ -28,3 +29,6 @@ This code is to create a provably random smart contract lottery.
 3. Chainlink VRF will be used to generate a provably random number for the draw.
 
 4. Chainlink Automation will be used to trigger the lottery draw periodically.
+=======
+# foundry-smart-contract-lottery
+>>>>>>> 14d33c76d1886bafccc87156b92440afae3f3c64
